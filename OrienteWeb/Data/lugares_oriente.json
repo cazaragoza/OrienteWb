@@ -1,0 +1,42 @@
+{
+  "Playas": [
+    { "name": "Playitas", "municipio": "La Unión", "depto": "La Unión", "lat": 13.323489, "lng": -87.833974 },
+    { "name": "El Tamarindo", "municipio": "Conchagua", "depto": "La Unión", "lat": 13.289543, "lng": -87.822318 },
+    { "name": "Maculís", "municipio": "Conchagua", "depto": "La Unión", "lat": 13.276218, "lng": -87.872669 },
+    { "name": "Las Tunas", "municipio": "Intipucá", "depto": "La Unión", "lat": 13.256072, "lng": -87.853622 },
+    { "name": "Icacal", "municipio": "Chirilagua", "depto": "San Miguel", "lat": 13.222117, "lng": -87.998876 },
+    { "name": "El Cuco", "municipio": "Chirilagua", "depto": "San Miguel", "lat": 13.181429, "lng": -88.061201 },
+    { "name": "Las Flores", "municipio": "Chirilagua", "depto": "San Miguel", "lat": 13.176682, "lng": -88.038546 },
+    { "name": "Punta Mango", "municipio": "Jucuarán", "depto": "Usulután", "lat": 13.163576, "lng": -88.031404 },
+    { "name": "El Espino", "municipio": "Jucuarán", "depto": "Usulután", "lat": 13.264192, "lng": -88.372438 },
+    { "name": "Bahía de Jiquilisco", "municipio": "Jiquilisco", "depto": "Usulután", "lat": 13.261120, "lng": -88.538710 }
+  ],
+
+  "Lagunas": [
+    { "name": "Laguna El Jocotal", "municipio": "San Miguel", "depto": "San Miguel", "lat": 13.339613, "lng": -88.204778 },
+    { "name": "Laguna Aramuaca", "municipio": "San Miguel", "depto": "San Miguel", "lat": 13.450008, "lng": -88.134016 },
+    { "name": "Laguna Olomega", "municipio": "Olomega", "depto": "San Miguel", "lat": 13.346776, "lng": -88.075233 },
+    { "name": "Laguna de Alegría", "municipio": "Alegría", "depto": "Usulután", "lat": 13.515939, "lng": -88.505570 },
+    { "name": "Los Negritos", "municipio": "Bolívar", "depto": "La Unión", "lat": 13.345923, "lng": -87.959109 }
+  ],
+
+  "Cascadas": [
+    { "name": "El Chorrerón", "municipio": "San Fernando", "depto": "Morazán", "lat": 13.810828, "lng": -88.100490 },
+    { "name": "Las Lipas", "municipio": "Arambala", "depto": "Morazán", "lat": 13.788210, "lng": -88.123705 },
+    { "name": "La Olomina", "municipio": "Arambala", "depto": "Morazán", "lat": 13.793672, "lng": -88.134001 },
+    { "name": "El Perol", "municipio": "Perquín", "depto": "Morazán", "lat": 13.785090, "lng": -88.169654 },
+    { "name": "La Sirena", "municipio": "Arambala", "depto": "Morazán", "lat": 13.790602, "lng": -88.127922 },
+    { "name": "El Brujo", "municipio": "Sesori", "depto": "San Miguel", "lat": 13.701125, "lng": -88.315777 },
+    { "name": "El Saltón", "municipio": "Anamorós", "depto": "La Unión", "lat": 13.624218, "lng": -87.959703 }
+  ],
+
+  "Volcanes": [
+    { "name": "Tecapa", "municipio": "Alegría", "depto": "Usulután", "lat": 13.513905, "lng": -88.505402 },
+    { "name": "Chaparrastique", "municipio": "San Miguel", "depto": "San Miguel", "lat": 13.433996, "lng": -88.266117 },
+    { "name": "Pacayal", "municipio": "Chinameca", "depto": "San Miguel", "lat": 13.489617, "lng": -88.285715 },
+    { "name": "Nariz del Diablo", "municipio": "San Miguel", "depto": "San Miguel", "lat": 13.446802, "lng": -88.233932 },
+    { "name": "Conchagua", "municipio": "Conchagua", "depto": "La Unión", "lat": 13.308150, "lng": -87.841503 },
+    { "name": "Cacahuatique", "municipio": "Ciudad Barrios", "depto": "Morazán", "lat": 13.750430, "lng": -88.249223 },
+    { "name": "Perquín", "municipio": "Perquín", "depto": "Morazán", "lat": 13.783012, "lng": -88.164952 }
+  ]
+}
